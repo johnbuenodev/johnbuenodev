@@ -1,8 +1,8 @@
 ### Olá sou John Bueno 🖖. 
 ### Desenvolvedor FullStack - Angular 16 / Ionic 6 / Spring Boot. 
-
+<!--
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-rodrigues-bueno-3b737919b/)
-
+-->
 ### Atualmente estudo Flutter 3 para aperfeiçoar meus conhecimentos em desenvolvimento mobile 📱 e Godot/Pixel art 🕹️👾 como hobby.
 
 ### Tecnologias que eu uso no meu dia:
