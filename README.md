@@ -3,7 +3,9 @@
 <!--
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-rodrigues-bueno-3b737919b/)
 -->
-### Atualmente estudo React Native/Kotlin para aperfeiçoar meus conhecimentos em desenvolvimento mobile 📱.
+### Atualmente estudo:
+### React Native para aperfeiçoar meus conhecimentos em desenvolvimento mobile 📱.
+### Jenkins/Pipelines para CI e CD.
 
 ### Tecnologias que eu uso no meu dia:
 <div style="display: inline_block;margin-bottom: 24px;">
